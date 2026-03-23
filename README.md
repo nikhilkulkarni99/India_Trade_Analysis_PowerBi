@@ -1,7 +1,7 @@
 # India Import-Export Trade Analysis (2021–2023)
 
 ## 📊 Project Overview - 
-- This is a real world raw dataset taken from government of India's site (data.gov.in). This Power BI dashboard analyzes India's import-export trade data across principal commodities and countries for 2021–2023.
+- This is a real world raw dataset taken from government of India's site (data.gov.in). This Power BI dashboard analyzes India's import-export trade data across principal commodities and countries for 2021–2023 files were downloaded separately and then appended during data transformation stage.
 
 ## 🎯 Objectives - 
 - Analyze trade trends over time
