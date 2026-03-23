@@ -31,3 +31,7 @@
 - DAX
 - Data Cleaning & Transformation
 
+## 📸 Dashboard Preview
+![Overview](image1.png)
+![Commodity](image2.png)
+![Country](image3.png)
